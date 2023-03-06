@@ -1,0 +1,14 @@
+to pull from remote
+
+git remote update (first see the changes)
+git pull (set the changes as per remote)
+
+
+to add in remote
+git add . (add all in local git)
+git commit -m "first edit and added 2" (commit wiht message)
+git remote add Origin https://github.com/nivek0119/winTry.git
+git push -u origin master
+
+
+git push -u origin master
